@@ -14,6 +14,7 @@ Insights from Analysis:
 1. Sales and profit were highest in January 2022.
 2. The top Customer by revenue is Mr.Maurice Shan. 
 3. Top 3 orders by category were - Accessories, Bikes then clothing.
-4. United States, Australia and Canada  are top 3 states
-5. In sub-category, the most ordered product is Tires and Tubes and the most returned product is Shorts.
+4. In sub-category, the most ordered product is Tires and Tubes and the most returned product is Shorts.
+5. United States, Australia and Canada  are top 3 states.
+
 
